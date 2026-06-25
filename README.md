@@ -20,3 +20,4 @@ Link: www.FacialExpressionRecognition.com
 ## **5. Screenshot of the Interface**
 <img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="50%" height="50%">
 
+<img width="1233" height="658" alt="image" src="https://github.com/user-attachments/assets/a0d34465-9ec0-4588-9e8c-1040c752be5d" />
